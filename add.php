@@ -1,6 +1,15 @@
 <?php
 //no code should be above include
 //connect to database
+  /*   _________
+      /         \
+ ____|    ______|_____
+/    |   /     _____  \   
+|    |  |     \ ____\ |
+|    |  \____________/
+ \___|          |
+     |   ___    |
+     \__/   \__/ */
 include("./db-connect.php");
   //create variables
     $name=null;
